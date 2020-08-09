@@ -1,0 +1,51 @@
+.team{
+	background-color: #c9e899a8;
+	text-align: center;
+	padding-top: 30px;
+}
+.team h1{
+	font-size: 36px;
+}
+.team span{
+	background-color: #067C65;
+	height: 2px;
+	width: 80px;
+	display: block;
+	margin: auto;
+}
+.team p{
+	width: 40%;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 40px;
+	font-size: 15px;
+	color: #2E5B7E;
+}
+.member{
+	margin: auto;
+	width: 87%;
+}
+.member img{
+	border-redius: 50%;
+	border-radius: 50%;
+}
+.member h3{
+	font-size: 15px;
+	margin-top: 13px;
+}
+.member p{
+	margin: 0;
+	font-size: 14px;
+	margin-left: 59px;
+	margin-top: -4px;
+	margin-bottom: 56px;
+}
+
+
+
+
+
+
+
+
+
